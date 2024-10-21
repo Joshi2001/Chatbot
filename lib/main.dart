@@ -1,3 +1,4 @@
+import 'package:chatbot/register_page.dart';
 import 'package:chatbot/splashscreen.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
  debugShowCheckedModeBanner: false,
       title: 'SplashScreen App',
-      home:  Splashscreen(),
+      home:  RegisterPage(),
     );
   }
 }

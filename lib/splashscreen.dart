@@ -26,7 +26,7 @@ class _SplashscreenState extends State<Splashscreen> {
         child:
        Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [ Image.asset('assets/splash_icon.png'),
+        children: [ Image.asset('assets/images/splash_icon.png'),
           const Text(
           'ChatBoat',
           style: TextStyle(color: Colors.white, fontSize: 20),

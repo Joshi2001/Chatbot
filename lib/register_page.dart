@@ -186,7 +186,7 @@ class RegisterPage extends StatelessWidget {
                             ),
                           ),
                           const SizedBox(height: 17),
-                          Container(
+                          SizedBox(
                             width: double.infinity,
                             height: 52,
                             child: FilledButton(

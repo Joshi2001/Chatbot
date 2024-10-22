@@ -1,5 +1,4 @@
 import 'package:chatbot/register_page.dart';
-import 'package:chatbot/splashscreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

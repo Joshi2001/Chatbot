@@ -1,4 +1,4 @@
-import 'package:chatbot/signin.dart';
+import 'package:chatbot/screens/signin.dart';
 import 'package:flutter/material.dart';
 
 class Splashscreen extends StatefulWidget {
